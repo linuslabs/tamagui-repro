@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-This repository demonstrates an issue with the `Accordion` component from Tamagui when attempting to use the `Trigger` with the `asChild` property. The intended behavior, according to Tamagui's documentation, leads to a React warning about unrecognized props on DOM elements.
+This repository demonstrates an issue with the `Accordion` component from Tamagui when attempting to use the `Trigger` with the `asChild` property in order to use a custom component for the trigger.
 
 ## Relevant Code
 
